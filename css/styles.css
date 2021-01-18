@@ -1,0 +1,84 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+.intro-div{
+  background-color: #f4f4f2;
+  border: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.my-name{
+  color: #3E9C87;
+  margin: 0;
+  padding-top: 80px;
+  font-family: sans-serif;
+  font-size: 5.1em;
+}
+
+.my-short-intro{
+  color: #3E9C87;
+  font-family: sans-serif;
+  font-size: 1.7em;
+}
+
+.mountain-img{
+  display: block;
+  margin: 150px auto 0 auto;
+  align-content: center;
+}
+
+.me-img{
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  background-color: #f4f4f2;
+  padding: 10px;
+  margin: 120px auto 10px auto;
+}
+
+.about-me-hi{
+  color: #3E9C87;
+  font-size: 2.4em;
+  font-family: sans-serif;
+  margin: 10px auto 10px auto;
+}
+
+.about-me-desc{
+  font-size: 1.8em;
+  font-family: sans-serif;
+  margin: 10px auto 100px auto;
+  width: 50%;
+  text-align: center;
+}
+
+/* hr{
+  width: 10%;
+  border-style: dotted none none none;
+  border-width: 8px;
+  margin: 75px auto;
+  color: #a6a9b6
+} */
+
+.contact-me{
+  width: 100%;
+  background-color: #f4f4f2;
+  padding-top: 20px;
+  position: absolute;
+  margin-bottom: 0;
+}
+
+.contact-me-linkedin{
+  margin: 0 20px 10px auto;
+}
+
+.contact-me-gmail{
+  margin: 0 auto 10px 20px;
+}
+
+.all-rights{
+  font-family: sans-serif;
+  padding-bottom: 20px;
+}
