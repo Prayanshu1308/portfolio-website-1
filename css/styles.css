@@ -1,6 +1,7 @@
 body{
   margin: 0;
   text-align: center;
+  position: relative;
 }
 
 .intro-div{
@@ -50,7 +51,7 @@ body{
   font-size: 1.8em;
   font-family: sans-serif;
   margin: 10px auto 100px auto;
-  width: 50%;
+  width: 55%;
   text-align: center;
 }
 
@@ -81,4 +82,8 @@ body{
 .all-rights{
   font-family: sans-serif;
   padding-bottom: 20px;
+}
+
+a{
+  text-decoration: none;
 }
